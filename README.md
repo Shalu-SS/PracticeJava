@@ -1,0 +1,1 @@
+This folder is created to practice Java coding by implementing both simple and complex programs. It serves as a space to enhance coding skills, explore core Java concepts, and tackle challenges ranging from basic algorithms to more advanced problem-solving techniques.
